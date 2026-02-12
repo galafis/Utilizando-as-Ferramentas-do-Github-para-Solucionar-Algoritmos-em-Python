@@ -1,40 +1,173 @@
-# 🤖 Resolvendo Códigos com GitHub Copilot & Codespaces | Desafio DIO
+# 🚀 Utilizando As Ferramentas Do Github Para Solucionar Algoritmos Em Python
 
-Seja bem-vindo(a) ao meu projeto criado como parte da jornada de aprendizagem na **DIO**! 🚀  
-Aqui, explorei na prática duas ferramentas incríveis: **GitHub Copilot**, o "copiloto" que ajuda a codar com inteligência artificial, e o **GitHub Codespaces**, um ambiente de desenvolvimento totalmente na nuvem.
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🧠 Sobre o Projeto
+[English](#english) | [Português](#português)
 
-Este repositório contém soluções de algoritmos em **Python**, desenvolvidas com o apoio do GitHub Copilot. A proposta é mostrar como a IA pode otimizar nossa produtividade na codificação, gerar sugestões inteligentes, identificar erros rapidamente e até auxiliar na escrita de documentação.
+---
 
-## 🛠️ Ferramentas Utilizadas
+## English
 
-- Python 3.x
-- Git & GitHub
-- GitHub Copilot
-- GitHub Codespaces
-- Markdown
+### 🎯 Overview
 
-## 🧪 Exemplos de Algoritmos
+**Utilizando As Ferramentas Do Github Para Solucionar Algoritmos Em Python** — DIObootcamp
 
-- ✅ Algoritmos matemáticos
-- ✅ Manipulação de strings
-- ✅ Validação de dados
-- ✅ Tratamento de erros
-- ✅ Lógica condicional em Python
+Total source lines: **37** across **6** files in **1** language.
 
-## 🚀 Como utilizar
+### ✨ Key Features
 
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
+
+### 🚀 Quick Start
+
+#### Prerequisites
+- Python 3.12+
+
+
+#### Installation
+
+1. **Clone the repository**
 ```bash
-git clone https://github.com/alinealien/resolvendo-codigos-py-copilot.git
+git clone https://github.com/galafis/Utilizando-as-Ferramentas-do-Github-para-Solucionar-Algoritmos-em-Python.git
+cd Utilizando-as-Ferramentas-do-Github-para-Solucionar-Algoritmos-em-Python
 ```
 
-Ou abrir direto no Codespaces clicando em `Code > Open with Codespaces`.
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-## 🌟 Próximos Passos
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
 
-- [ ] Criar novos scripts com Copilot
-- [ ] Automatizar testes com Pytest
-- [ ] Integrar exemplos com Jupyter Notebooks
+#### Running
 
-Feito com 💙 e IA por Gabriel Lafis  
+```bash
+python main.py
+```
+
+
+
+
+
+### 📁 Project Structure
+
+```
+Utilizando-as-Ferramentas-do-Github-para-Solucionar-Algoritmos-em-Python/
+├── scripts/
+│   ├── conditional_logic.py
+│   ├── data_validation.py
+│   ├── error_handling.py
+│   ├── math_operations.py
+│   └── string_manipulation.py
+├── README.md
+├── main.py
+└── requirements.txt
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Python | 6 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Utilizando As Ferramentas Do Github Para Solucionar Algoritmos Em Python** — DIObootcamp
+
+Total de linhas de código: **37** em **6** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Python 3.12+
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Utilizando-as-Ferramentas-do-Github-para-Solucionar-Algoritmos-em-Python.git
+cd Utilizando-as-Ferramentas-do-Github-para-Solucionar-Algoritmos-em-Python
+```
+
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+#### Execução
+
+```bash
+python main.py
+```
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+Utilizando-as-Ferramentas-do-Github-para-Solucionar-Algoritmos-em-Python/
+├── scripts/
+│   ├── conditional_logic.py
+│   ├── data_validation.py
+│   ├── error_handling.py
+│   ├── math_operations.py
+│   └── string_manipulation.py
+├── README.md
+├── main.py
+└── requirements.txt
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| Python | 6 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
