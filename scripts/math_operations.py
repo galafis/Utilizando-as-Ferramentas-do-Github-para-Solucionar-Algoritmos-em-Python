@@ -1,4 +1,6 @@
 def soma(a, b):
     return a + b
 
-print(soma(3, 5))
+
+if __name__ == '__main__':
+    print(soma(3, 5))

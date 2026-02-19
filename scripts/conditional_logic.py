@@ -4,4 +4,6 @@ def maioridade(idade):
     else:
         return "Menor de idade"
 
-print(maioridade(17))
+
+if __name__ == '__main__':
+    print(maioridade(17))

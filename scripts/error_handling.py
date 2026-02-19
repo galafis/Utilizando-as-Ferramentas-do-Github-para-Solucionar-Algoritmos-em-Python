@@ -4,4 +4,6 @@ def dividir(a, b):
     except ZeroDivisionError:
         return "Erro: divisão por zero."
 
-print(dividir(10, 0))
+
+if __name__ == '__main__':
+    print(dividir(10, 0))
